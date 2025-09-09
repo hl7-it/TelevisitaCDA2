@@ -1,6 +1,6 @@
 # Televisita CDA2
 
-[IG HL7 CDA2 TELEVISITA](https://hl7itig.art-decor.pub/hl7itig-html-20250820T172726/tmp-2.16.840.1.113883.2.9.10.1.16.1.1-2025-05-16T122334.html) 
+[IG HL7 CDA2 Televisita](https://hl7itig.art-decor.pub/hl7itig-html-20250820T172726/tmp-2.16.840.1.113883.2.9.10.1.16.1.1-2025-05-16T122334.html) 
 
 # Ballot: Guida alla votazione
 La procedura di ballot segue lo standard Jira Balloting di HL7 international FHIR, che prevede l'utilizzo delle Issue GitHub (le Issue aperte prima dell'inizio del ballot sono segnalate come "Pre-Ballot Close"). Tale procedura è utile a segnalare commenti correlati alla votazione, che ufficialmente deve avvenire nell'area [Discussion di GitHub](https://github.com/hl7-it/Profilo-Sanitario-Sintetico-PSS-/discussions.html)
